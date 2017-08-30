@@ -28,7 +28,7 @@ var htmltemplate={
     <html>
     <head>
         <title>
-             ${title}
+        ${title}
         </title>
         <meta name="viewport" content='width=display-width, initial scale=1'/>
          <link href="/ui/style.css" rel="stylesheet" />
